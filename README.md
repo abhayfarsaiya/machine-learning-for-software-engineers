@@ -1,41 +1,6 @@
 # Top-down learning path: Machine Learning for Software Engineers
 
 
-
-## Table of Contents
-
-- [What is it?](#what-is-it)
-- [Why use it?](#why-use-it)
-- [How to use it](#how-to-use-it)
-- [Follow me](#follow-me)
-- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
-- [About Video Resources](#about-video-resources)
-- [Prerequisite Knowledge](#prerequisite-knowledge)
-- [The Daily Plan](#the-daily-plan)
-- [Motivation](#motivation)
-- [Machine learning overview](#machine-learning-overview)
-- [Machine learning mastery](#machine-learning-mastery)
-- [Machine learning is fun](#machine-learning-is-fun)
-- [Inky Machine Learning](#inky-machine-learning)
-- [Machine learning: an in-depth, non-technical guide](#machine-learning-an-in-depth-non-technical-guide)
-- [Stories and experiences](#stories-and-experiences)
-- [Machine Learning Algorithms](#machine-learning-algorithms)
-- [Beginner Books](#beginner-books)
-- [Practical Books](#practical-books)
-- [Kaggle knowledge competitions](#kaggle-knowledge-competitions)
-- [Video Series](#video-series)
-- [MOOC](#mooc)
-- [Resources](#resources)
-- [Becoming an Open Source Contributor](#becoming-an-open-source-contributor)
-- [Games](#games)
-- [Podcasts](#podcasts)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Interview Questions](#interview-questions)
-- [My admired companies](#my-admired-companies)
-
-
-
 ## Machine learning mastery
 - [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
@@ -65,15 +30,10 @@
 ## Stories and experiences
 - [X] [Machine Learning in a Week](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
 - [X] [Machine Learning in a Year](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
-- [ ] [How I wrote my first Machine Learning program in 3 days](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
-- [ ] [Learning Path : Your mentor to become a machine learning expert](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
-- [ ] [You Too Can Become a Machine Learning Rock Star! No PhD](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
 - [ ] How to become a Data Scientist in 6 months: A hacker’s approach to career planning
     - [Video](https://www.youtube.com/watch?v=rIofV14c0tc)
     - [Slide](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
 - [ ] [5 Skills You Need to Become a Machine Learning Engineer](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
-- [ ] [Are you a self-taught machine learning engineer? If yes, how did you do it & how long did it take you?](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
-- [ ] [How can one become a good machine learning engineer?](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 
 ## Machine Learning Algorithms
@@ -81,7 +41,6 @@
 - [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [X] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
 - [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
-- [ ] [The 10 Algorithms Machine Learning Engineers Need to Know](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
 
@@ -139,8 +98,6 @@
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
 - [ ] [Fresh Machine Learning](https://www.youtube.com/playlist?list=PL2-dafEMk2A6Kc7pV6gHH-apBFxwFjKeY)
 - [ ] [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
-- [ ] [Everything You Need to know about Machine Learning in 30 Minutes or Less](https://vimeo.com/43547079)
-- [ ] [A Friendly Introduction to Machine Learning](https://www.youtube.com/watch?v=IpGxLWOIZy4)
 - [ ] [Nuts and Bolts of Applying Deep Learning - Andrew Ng](https://www.youtube.com/watch?v=F1ka6a13S9I)
 - [ ] BigML Webinar
     - [Video](https://www.youtube.com/watch?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3&v=W62ehrnOVqo)
@@ -245,11 +202,6 @@
     - [Data Stories](http://datastori.es/)
 
 ## Communities
-- Quora
-    - [Machine Learning](https://www.quora.com/topic/Machine-Learning)
-    - [Statistics](https://www.quora.com/topic/Statistics-academic-discipline)
-    - [Data Mining](https://www.quora.com/topic/Data-Mining)
-
 - Reddit
     - [Machine Learning](https://www.reddit.com/r/machinelearning)
     - [Computer Vision](https://www.reddit.com/r/computervision)
@@ -281,7 +233,3 @@
 - [ ] [What are the best interview questions to evaluate a machine learning researcher?](https://www.quora.com/What-are-the-best-interview-questions-to-evaluate-a-machine-learning-researcher)
 - [ ] [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
 - [ ] [121 Essential Machine Learning Questions & Answers](https://learn.elitedatascience.com/mlqa-welcome)
-
-
-## My admired companies
-- [ ] [ELSA - Your virtual pronunciation coach](https://www.elsanow.io/home)
