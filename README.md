@@ -37,9 +37,6 @@
 - [ ] [A Learning Sabbatical focused on Machine Learning](http://karlrosaen.com/ml/)
 
 ## Machine Learning Algorithms
-- [ ] [10 Machine Learning Algorithms Explained to an ‘Army Soldier’](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
-- [ ] [Top 10 data mining algorithms in plain English](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
-- [X] [10 Machine Learning Terms Explained in Simple English](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
 - [ ] [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [ ] [Comparing supervised learning algorithms](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [ ] [Machine Learning Algorithms: A collection of minimal and clean implementations of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
@@ -51,7 +48,6 @@
 
 ## Practical Books
 - [ ] [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Drew-Conway/dp/1449303714)
-    - [GitHub repository(R)](https://github.com/johnmyleswhite/ML_for_Hackers)
     - [GitHub repository(Python)](https://github.com/carljv/Will_it_Python)
 - [ ] [Python Machine Learning](https://www.amazon.com/Python-Machine-Learning-Sebastian-Raschka-ebook/dp/B00YSILNL0)
     - [GitHub repository](https://github.com/rasbt/python-machine-learning-book)
@@ -121,9 +117,6 @@
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
 - [ ] [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
 - [ ] [Coursera’s Machine Learning](https://www.coursera.org/learn/machine-learning)
-    - [Video only](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW)
-    - [Coursera Machine Learning review](https://rayli.net/blog/data/coursera-machine-learning-review/)
-    - [Coursera: Machine Learning Roadmap](https://metacademy.org/roadmaps/cjrd/coursera_ml_supplement)
 - [ ] [Machine Learning Distilled](https://code.tutsplus.com/courses/machine-learning-distilled)
 - [ ] [BigML training](https://bigml.com/training)
 - [ ] [Coursera’s Neural Networks for Machine Learning](https://www.coursera.org/learn/neural-networks)
@@ -138,7 +131,6 @@
 - [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/) 
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
-- [ ] [How to Learn Machine Learning: The Self-Starter Way](https://elitedatascience.com/learn-machine-learning)
 - [ ] [Machine Learning Self-study Resources](https://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
 - [ ] [Level-Up Your Machine Learning](https://metacademy.org/roadmaps/cjrd/level-up-your-ml)
 - [ ] Enough Machine Learning to Make Hacker News Readable Again
@@ -202,19 +194,10 @@
     - [Data Stories](http://datastori.es/)
 
 ## Communities
-- Reddit
-    - [Machine Learning](https://www.reddit.com/r/machinelearning)
-    - [Computer Vision](https://www.reddit.com/r/computervision)
-    - [Natural Language](https://www.reddit.com/r/languagetechnology)
-    - [Data Science](https://www.reddit.com/r/datascience)
-    - [Big Data](https://www.reddit.com/r/bigdata)
-    - [Statistics](https://www.reddit.com/r/statistics)
 
 - [Data Tau](http://www.datatau.com/)
 
 - [Deep Learning News](http://news.startup.ml/)
-
-- [KDnuggets](http://www.kdnuggets.com/)
 
 ## Conferences
 - Neural Information Processing Systems ([NIPS](https://nips.cc/))
